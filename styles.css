@@ -71,6 +71,13 @@ main {
     margin: 20px auto; /* Centre l'image horizontalement avec un espace autour */
 }
 
+.photo-principale2 {
+    display: block;
+    max-width: 80%; /* L'image prendra au maximum 80% de la largeur de la page */
+    height: auto; /* Garde les proportions de l'image */
+    margin: 20px auto; /* Centre l'image horizontalement avec un espace autour */
+}
+
 .team {
     display: flex;
     justify-content: center;
